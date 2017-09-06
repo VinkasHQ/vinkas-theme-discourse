@@ -1,0 +1,19 @@
+{
+  "name": "Vinkas",
+  "about_url": "https://github.com/vinkashq/vinkas-theme-discourse",
+  "license_url": "https://github.com/vinkashq/vinkas-theme-discourse/raw/master/LICENSE.txt",
+   "color_schemes": {
+       "Vinkas Light": {
+          "primary": "212121",
+          "secondary": "ffffff",
+          "tertiary": "3F51B5",
+          "quaternary": "EF5350",
+          "header_background": "ffffff",
+          "header_primary": "333333",
+          "highlight": "FFEB3B",
+          "danger": "EF5350",
+          "success": "4CAF50",
+          "love": "fa6c8d"
+        }
+    }
+}
