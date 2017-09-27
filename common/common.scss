@@ -2,10 +2,10 @@
 
 header #site-text-logo {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 26px;
+  font-size: 32px;
+  line-height: 48px;
   letter-spacing: -2px;
-  margin-top: 4px;
-  margin-bottom: -4px;
+  margin-bottom: 0;
 }
 
-.google-adsense .google-adsense-label { display: none; }
+.google-adsense .google-adsense-label, .topic-list .main-link a.date-time.title span { display: none; }
