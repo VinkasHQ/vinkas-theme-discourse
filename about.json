@@ -5,15 +5,15 @@
    "color_schemes": {
        "Vinkas Light": {
           "primary": "212121",
-          "secondary": "ffffff",
-          "tertiary": "3F51B5",
-          "quaternary": "EF5350",
-          "header_background": "ffffff",
-          "header_primary": "333333",
+          "secondary": "FFFFFF",
+          "tertiary": "0D47A1",
+          "quaternary": "F50057",
+          "header_background": "FFFFFF",
+          "header_primary": "424242",
           "highlight": "FFEB3B",
-          "danger": "EF5350",
+          "danger": "F44336",
           "success": "4CAF50",
-          "love": "fa6c8d"
+          "love": "FF4081"
         }
     }
 }
