@@ -7,11 +7,28 @@
     }
     
     .brand-text-logo {
+        display: block;
+        float: left;
         font-family: 'Josefin Sans', sans-serif;
-        font-size: 20px;
+        font-size: 18px;
         line-height: 30px;
-        margin-top: 4px;
-        display: inline-block;
+        margin-right: 10px;
+    }
+}
+
+#top-menu {
+    float: left;
+    margin-bottom: 0;
+    margin-left: 10px;
+        
+    > li > a {
+        font-size: 10px;
+        text-transform: uppercase;
+        font-weight: bolder;
+        
+        &:hover {
+            background-color: darken($tertiary, 10%);
+        }
     }
 }
 
